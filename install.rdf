@@ -14,7 +14,7 @@
 		<em:contributor>Valeryan_24@laposte.net</em:contributor>
 		<em:contributor>Falk Röder</em:contributor>
 		<em:contributor>Stefano Morpurgo</em:contributor>
-		<em:homepageURL>https://addons.mozilla.org/thunderbird/addon/2505</em:homepageURL>
+		<em:homepageURL>https://github.com/DDvO/Duplicate-Contacts-Manager</em:homepageURL>
 		<em:iconURL>chrome://duplicatecontactsmanager/content/kate.png</em:iconURL>
 		<em:aboutURL>chrome://duplicatecontactsmanager/content/aboutDialog.xul</em:aboutURL>
 		<!--It's an extension-->
